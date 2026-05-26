@@ -92,5 +92,10 @@
 <script src="data.js?v=4"></script>
 <script src="menus.js?v=4"></script>
 <script src="app.js?v=4"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js');
+  }
+</script>
 </body>
 </html>
