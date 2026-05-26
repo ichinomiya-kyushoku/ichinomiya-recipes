@@ -513,6 +513,15 @@
     "year_month": "2026-05"
   },
   {
+    "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0806.pdf",
+    "filename": "higashiazaisyoutyuu0806.pdf",
+    "school_type": "共通",
+    "area": "東浅井",
+    "year": 2026,
+    "month": 6,
+    "year_month": "2026-06"
+  },
+  {
     "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/hokubusyoutyuu0804.pdf",
     "filename": "hokubusyoutyuu0804.pdf",
     "school_type": "共通",
@@ -529,6 +538,15 @@
     "year": 2026,
     "month": 5,
     "year_month": "2026-05"
+  },
+  {
+    "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/hokubusyoutyuu0806.pdf",
+    "filename": "hokubusyoutyuu0806.pdf",
+    "school_type": "共通",
+    "area": "北部",
+    "year": 2026,
+    "month": 6,
+    "year_month": "2026-06"
   },
   {
     "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/nanbusyoutyuu0804.pdf",
@@ -549,6 +567,15 @@
     "year_month": "2026-05"
   },
   {
+    "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/nanbusyoutyuu0806.pdf",
+    "filename": "nanbusyoutyuu0806.pdf",
+    "school_type": "共通",
+    "area": "南部",
+    "year": 2026,
+    "month": 6,
+    "year_month": "2026-06"
+  },
+  {
     "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/tandokusyou0804.pdf",
     "filename": "tandokusyou0804.pdf",
     "school_type": "小学校",
@@ -567,6 +594,15 @@
     "year_month": "2026-05"
   },
   {
+    "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/tandokusyou0806.pdf",
+    "filename": "tandokusyou0806.pdf",
+    "school_type": "小学校",
+    "area": "",
+    "year": 2026,
+    "month": 6,
+    "year_month": "2026-06"
+  },
+  {
     "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/tandokutyuu0804.pdf",
     "filename": "tandokutyuu0804.pdf",
     "school_type": "中学校",
@@ -583,5 +619,14 @@
     "year": 2026,
     "month": 5,
     "year_month": "2026-05"
+  },
+  {
+    "url": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/tandokutyuu0806.pdf",
+    "filename": "tandokutyuu0806.pdf",
+    "school_type": "中学校",
+    "area": "",
+    "year": 2026,
+    "month": 6,
+    "year_month": "2026-06"
   }
 ]
