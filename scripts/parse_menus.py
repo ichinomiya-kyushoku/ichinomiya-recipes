@@ -117,12 +117,24 @@ def _extract_dish_name_higashiazai(cell):
 
 
 def _get_kcal(row):
-    """Return the kcal value from row[-2] if it's >200, else 0."""
-    try:
-        v = float(str(row[-2]).strip()) if row and len(row) >= 2 and row[-2] else 0
-        return v if v > 200 else 0
-    except (ValueError, TypeError):
+    """Return the first cell value >200 found anywhere in the row, else 0.
+
+    Original code only checked row[-2], but page-2 PDFs can have extra columns
+    that push the kcal column away from the end.  Scanning all cells is safe
+    because ingredient cells only contain Japanese text or small float values
+    (protein g < 200), so a float > 200 is always a kcal total.
+    """
+    if not row:
         return 0
+    for cell in row:
+        if cell:
+            try:
+                v = float(str(cell).strip())
+                if v > 200:
+                    return v
+            except (ValueError, TypeError):
+                pass
+    return 0
 
 
 def extract_day_records_higashiazai(table):
@@ -143,9 +155,9 @@ def extract_day_records_higashiazai(table):
 
     # Pass 2: iterate day blocks
     for n, k in enumerate(kcal_indices):
-        start = max(0, k - 1)  # ご飯 row is exactly one before 牛乳
+        start = k  # k IS the ご飯 row (kcal is on the ご飯 row)
         if n + 1 < len(kcal_indices):
-            end = kcal_indices[n + 1] - 2  # last row before next day's ご飯
+            end = kcal_indices[n + 1] - 1  # last row before next day's ご飯
         else:
             end = len(table) - 1
 
