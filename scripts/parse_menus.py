@@ -137,14 +137,37 @@ def _get_kcal(row):
     return 0
 
 
+def _day_column(table):
+    """Return the column index where the lone 1-2 digit day numbers live.
+
+    Page 1 and page 2 of the same 東浅井 PDF can have different column offsets
+    (pdfplumber inserts an extra leading column on some pages), so the day
+    column is not always col[1].  Detect it from the first lone-digit cell.
+    Defaults to 1 (the common page-1 layout) when nothing is found.
+    """
+    for row in table:
+        if not row:
+            continue
+        for idx, cell in enumerate(row):
+            if cell and re.fullmatch(r"\d{1,2}", str(cell).strip()):
+                return idx
+    return 1
+
+
 def extract_day_records_higashiazai(table):
     """Parse 東浅井 format using kcal rows as day-boundary markers.
 
     Each day's block:
       row[k-1]  = ご飯/パン  (first dish, no day number)
       row[k]    = 牛乳 with large kcal  (kcal marker)
-      row[k+1…] = main dishes; one of them has the day number in col[1]
+      row[k+1…] = main dishes; one of them has the day number in col[day_col]
+
+    Column offsets are detected per-table (day_col, weekday_col=day_col+1,
+    dish_col=day_col+2) because page 2 is shifted one column to the right.
     """
+    day_col = _day_column(table)
+    weekday_col = day_col + 1
+    dish_col = day_col + 2
     # Pass 1: find kcal row indices (牛乳 rows with total kcal > 200)
     kcal_indices = [
         i for i, row in enumerate(table)
@@ -168,28 +191,35 @@ def extract_day_records_higashiazai(table):
 
         for i in range(start, end + 1):
             row = table[i]
-            if not row or len(row) < 4:
+            if not row or len(row) <= dish_col:
                 continue
 
-            col1 = str(row[1]).strip() if row[1] else ""
-            col2 = str(row[2]).strip() if row[2] else ""
-            col3 = row[3]
+            day_cell = str(row[day_col]).strip() if row[day_col] else ""
+            weekday_cell = str(row[weekday_col]).strip() if row[weekday_col] else ""
+            dish_cell = row[dish_col]
 
-            # Day anchor: col[1] is a 1-2 digit number
-            if re.fullmatch(r"\d{1,2}", col1):
-                day_num = int(col1)
-                weekday = col2
+            # Day anchor: the day column holds a 1-2 digit number
+            if re.fullmatch(r"\d{1,2}", day_cell):
+                day_num = int(day_cell)
+                weekday = weekday_cell
 
             # Dish name
-            dish = _extract_dish_name_higashiazai(col3)
+            dish = _extract_dish_name_higashiazai(dish_cell)
             if dish and not re.match(r"^[<〈＜〔【]", dish):
                 dishes.append(dish)
 
-            # Ingredients: middle columns (col[4] to col[-3])
-            for c in row[4:-2]:
+            # Ingredients: columns after the dish column up to the kcal columns.
+            # Skip pure kcal-like numbers (>200) that can leak in on shifted pages.
+            for c in row[dish_col + 1:-2]:
                 s = str(c).strip() if c else ""
-                if s and s != "None":
-                    ing_parts.append(s)
+                if not s or s == "None":
+                    continue
+                try:
+                    if float(s) > 200:
+                        continue
+                except ValueError:
+                    pass
+                ing_parts.append(s)
 
         if day_num is not None and dishes:
             yield {
@@ -203,16 +233,18 @@ def extract_day_records_higashiazai(table):
 # ---------------------------------------------------------------------------
 
 def detect_format(table):
-    """Return 'standard' or 'higashiazai' based on table structure."""
-    for row in table[2:15]:
+    """Return 'standard' or 'higashiazai' based on table structure.
+
+    The first lone 1-2 digit day cell tells them apart: standard packs the day
+    in col[0]; 東浅井 puts it in col[1] (page 1) or col[2] (page 2, shifted).
+    Any day column other than 0 means 東浅井.
+    """
+    for row in table:
         if not row:
             continue
-        # Standard: row[0] is a digit
-        if row[0] and re.fullmatch(r"\d{1,2}", str(row[0]).strip()):
-            return "standard"
-        # 東浅井: row[0] is None, row[1] is a digit
-        if not row[0] and row[1] and re.fullmatch(r"\d{1,2}", str(row[1]).strip()):
-            return "higashiazai"
+        for idx, cell in enumerate(row):
+            if cell and re.fullmatch(r"\d{1,2}", str(cell).strip()):
+                return "standard" if idx == 0 else "higashiazai"
     return "standard"
 
 
