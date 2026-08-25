@@ -21099,5 +21099,289 @@
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0807.pdf"
+  },
+  {
+    "date": "2026-09-02",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 2,
+    "weekday": "水",
+    "dishes": [
+      "はん",
+      "ご飯"
+    ],
+    "ingredients": "≪こめ≫",
+    "kcal": "636",
+    "protein_g": "815",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-03",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 3,
+    "weekday": "木",
+    "dishes": [
+      "はん",
+      "ご飯"
+    ],
+    "ingredients": "≪こめ≫",
+    "kcal": "609",
+    "protein_g": "754",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-04",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 4,
+    "weekday": "金",
+    "dishes": [
+      "サンドイッチロールパン"
+    ],
+    "ingredients": "≪サンドイッチロールパン≫",
+    "kcal": "639",
+    "protein_g": "766",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-07",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 7,
+    "weekday": "月",
+    "dishes": [
+      "むぎ",
+      "麦ごはん"
+    ],
+    "ingredients": "≪こめ≫ おおむぎ",
+    "kcal": "763",
+    "protein_g": "924",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-08",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 8,
+    "weekday": "火",
+    "dishes": [
+      "はん",
+      "ご飯"
+    ],
+    "ingredients": "≪こめ≫",
+    "kcal": "602",
+    "protein_g": "751",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-09",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 9,
+    "weekday": "水",
+    "dishes": [
+      "はん",
+      "ご飯"
+    ],
+    "ingredients": "≪こめ≫",
+    "kcal": "614",
+    "protein_g": "783",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-10",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 10,
+    "weekday": "木",
+    "dishes": [
+      "はん",
+      "わかめご飯"
+    ],
+    "ingredients": "わかめ ≪こめ≫",
+    "kcal": "626",
+    "protein_g": "784",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-11",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 11,
+    "weekday": "金",
+    "dishes": [
+      "ひ",
+      "冷やしうどん"
+    ],
+    "ingredients": "≪ひやしうどん≫",
+    "kcal": "667",
+    "protein_g": "807",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-14",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 14,
+    "weekday": "月",
+    "dishes": [
+      "はん",
+      "ご飯"
+    ],
+    "ingredients": "≪こめ≫",
+    "kcal": "684",
+    "protein_g": "888",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-15",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 15,
+    "weekday": "火",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "キャベツ入りつくね",
+      "ひじきのいため煮",
+      "かきたま汁"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ とりにく ≪ぶたにく≫ ≪キャベツ≫ たまねぎ こんにゃく こめこパンこ でんぷん\nさとう ≪ラード≫\nあぶら まぐろフレーク ひじき にんじん とうもろこし さとう あぶら 27.2 ≪たまご≫ とりにく かまぼこ にんじん はねぎ えのきたけ でんぷん あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-16",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 16,
+    "weekday": "水",
+    "dishes": [
+      "麦ごはん",
+      "牛乳",
+      "ハヤシシチュー",
+      "チキンナゲット（小２・中３）",
+      "コーンサラダ"
+    ],
+    "ingredients": "≪こめ≫ おおむぎ ≪ぎゅうにゅう≫ ぶたにく にんじん トマト たまねぎ しめじ じゃがいも ハヤシルウ あぶら とりにく にんにく パンこ こむぎこ ラード あぶら 21.8 にんじん キャベツ とうもろこし ドレッシング",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-17",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 17,
+    "weekday": "木",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "たらのから揚あげいちじくソース和あえ",
+      "いろどり和え",
+      "吉野汁",
+      "中）野菜ふりかけ"
+    ],
+    "ingredients": "≪こめ≫ ほねにきを ≪ぎゅうにゅう≫ つけてね\nたら ≪いちじく≫ レモン でんぷん さとう あぶら ごま\nごまあぶら ハム かつおぶし こんぶ にんじん キャベツ きゅうり さとう あぶら 29.8 とりにく ≪とうふ≫\nあぶらあげ にんじん ≪みつば≫ だいこん さといも でんぷん トマト かぼちゃ\nほうれんそう こめ じゃがいも\nさとう でんぷん\nみずあめ",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-24",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 24,
+    "weekday": "木",
+    "dishes": [
+      "ミルクロールパン",
+      "牛乳",
+      "焼きそば",
+      "焼きフランクフルト",
+      "ブロッコリーのドレッシング和あえ",
+      "ご飯",
+      "牛乳",
+      "肉団子（小２・中３）",
+      "いんげんのごま和え",
+      "スタミナ汁"
+    ],
+    "ingredients": "≪ミルクロールパン≫ ≪ぎゅうにゅう≫ ぶたにく いか ≪あおのり≫ にんじん キャベツ もやし ≪やきそばめん≫ あぶら ぶたにく さとう ラード\nあぶら 33.5 ブロッコリー ドレッシング ≪こめ≫ 586\n23.3 ≪ぎゅうにゅう≫ とりにく ぶたにく だいず たまねぎ にんにく しょうが さとう ラード あぶら さやいんげん さとう ごま ぶたにく あぶらあげ\n≪とうふ≫ ミックスみそ にんじん にら たまねぎ にんにく じゃがいも あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-25",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 25,
+    "weekday": "金",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "さといもコロッケ",
+      "鉄骨和え",
+      "お月見だんご汁"
+    ],
+    "ingredients": "≪こめ≫ ただしい\nはしづかいの日 ≪ぎゅうにゅう≫ ≪とりにく≫ さといも さとう\nパンこ こむぎこ\nでんぷん あぶら ちりめんじゃこ ≪ほうれんそう≫ もやし さとう 22.2 とりにく かまぼこ\n≪とうふ≫ にんじん こまつな ごぼう もち",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-28",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 28,
+    "weekday": "月",
+    "dishes": [
+      "ソフトめん",
+      "牛乳",
+      "ソフトめんミートソース（汁）",
+      "オムレツ",
+      "さつまいもチップス"
+    ],
+    "ingredients": "≪ソフトめん≫ ≪ぎゅうにゅう≫ ぎゅうにく ぶたにく\n≪だいず≫ にんじん トマト たまねぎ にんにく ハヤシルウ さとう たまご さとう あぶら 26.0 さつまいも あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-29",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 29,
+    "weekday": "火",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "さばの梅おろしがけ",
+      "わかめの和え物",
+      "豆乳ごまみそ汁"
+    ],
+    "ingredients": "≪こめ≫ 「まごわやさしい」\nこんだて ほねにきを ≪ぎゅうにゅう≫ つけてね\nさば うめ だいこん さとう でんぷん あぶら わかめ みずな キャベツ ドレッシング 28.5 ぶたにく あつあげ しろみそ\nとうにゅう にんじん はねぎ たまねぎ えのきたけ じゃがいも ごま あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
+  },
+  {
+    "date": "2026-09-30",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 30,
+    "weekday": "水",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ソースカツ",
+      "はくさいの和え物",
+      "けんちん汁"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ ぶたにく でんぷん パンこ\nさとう あぶら まぐろフレーク はくさい さとう あぶら 22.6 ≪とうふ≫ あぶらあげ にんじん ≪みつば≫ ごぼう だいこん こんにゃく さといも ごまあぶら 一宮市では、学校給食課\nのウェブページに「好評献",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
   }
 ]
