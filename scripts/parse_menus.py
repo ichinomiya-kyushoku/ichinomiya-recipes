@@ -119,21 +119,23 @@ def _extract_dish_name_higashiazai(cell):
 def _get_kcal(row):
     """Return the first cell value >200 found anywhere in the row, else 0.
 
-    Original code only checked row[-2], but page-2 PDFs can have extra columns
-    that push the kcal column away from the end.  Scanning all cells is safe
-    because ingredient cells only contain Japanese text or small float values
-    (protein g < 200), so a float > 200 is always a kcal total.
+    Cells may contain multiple values separated by newlines (e.g. '586\n23.3'
+    when the small-school and middle-school kcal share one cell).  Split on
+    whitespace/newlines and try each part so all kcal markers are detected.
+    Ingredient cells only contain Japanese text or small floats (<200), so
+    any float >200 is safely treated as a kcal total.
     """
     if not row:
         return 0
     for cell in row:
         if cell:
-            try:
-                v = float(str(cell).strip())
-                if v > 200:
-                    return v
-            except (ValueError, TypeError):
-                pass
+            for part in re.split(r"[\s\n]+", str(cell).strip()):
+                try:
+                    v = float(part)
+                    if v > 200:
+                        return v
+                except (ValueError, TypeError):
+                    pass
     return 0
 
 
@@ -235,16 +237,32 @@ def extract_day_records_higashiazai(table):
 def detect_format(table):
     """Return 'standard' or 'higashiazai' based on table structure.
 
-    The first lone 1-2 digit day cell tells them apart: standard packs the day
-    in col[0]; 東浅井 puts it in col[1] (page 1) or col[2] (page 2, shifted).
-    Any day column other than 0 means 東浅井.
+    Three cases:
+    - 東浅井 classic (page 2): first digit is NOT in col[0] → higashiazai
+    - 東浅井 new p1 (Sep 2026+): digit in col[0], but sub-dish rows exist
+      (rows where col[0]=None, col[1]=None, col[2]=dish content)
+    - Standard (尾西 etc.): digit in col[0], no sub-dish rows
     """
+    digit_at_zero = False
+
     for row in table:
         if not row:
             continue
         for idx, cell in enumerate(row):
             if cell and re.fullmatch(r"\d{1,2}", str(cell).strip()):
-                return "standard" if idx == 0 else "higashiazai"
+                if idx > 0:
+                    return "higashiazai"
+                digit_at_zero = True
+                break
+
+    if digit_at_zero:
+        subdish_count = sum(
+            1 for row in table
+            if row and len(row) > 2 and not row[0] and not row[1] and row[2]
+        )
+        if subdish_count >= 3:
+            return "higashiazai"
+
     return "standard"
 
 
