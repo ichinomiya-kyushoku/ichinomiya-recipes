@@ -21429,19 +21429,37 @@
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0809.pdf"
   },
   {
+    "date": "2026-10-01",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 1,
+    "weekday": "木",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ぶたキムチいため",
+      "春巻",
+      "はるさめスープ"
+    ],
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nごまあぶら\nぶたにく パプリカ にんじん にら ≪はくさい≫ にんにく たけのこ でんぷん さとう\nあぶら\nでんぷん さとう ごまあぶら\nぶたにく にんじん にら ≪キャベツ≫ もやし エリンギ\nこむぎこ みずあめ あぶら\nにんじん もやし ほししいたけ\nとりにく はるさめ あぶら\n≪チンゲンサイ≫ とうもろこし",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
+  },
+  {
     "date": "2026-10-02",
     "school_type": "小中",
     "area": "東浅井",
     "day": 2,
     "weekday": "金",
     "dishes": [
+      "ご飯",
       "牛乳",
-      "ぶたキムチいため",
-      "春巻",
-      "はるさめスープ",
-      "ご飯"
+      "ししゃもフライのごまソースがけ（小中２）",
+      "きゅうりのこんぶ和え",
+      "とり団子汁"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ ぶたにく パプリカ にんじん にら ≪はくさい≫ にんにく たけのこ でんぷん さとう ごまあぶら\nあぶら ぶたにく にんじん にら ≪キャベツ≫ もやし エリンギ でんぷん さとう\nこむぎこ みずあめ ごまあぶら\nあぶら とりにく にんじん\n≪チンゲンサイ≫ もやし ほししいたけ\nとうもろこし はるさめ あぶら ≪こめ≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nほねも\nたべられるよ パンこ こむぎこ\nししゃも あぶら ごま\nさとう でんぷん\nこんぶ きゅうり もやし さとう\nはねぎ にんじん はくさい えのきたけ しらたき\nとりにく たまねぎ でんぷん さとう",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21453,13 +21471,13 @@
     "day": 5,
     "weekday": "月",
     "dishes": [
+      "ご飯",
       "牛乳",
-      "ししゃもフライのごまソースがけ（小しょうち中ゅう２）",
-      "きゅうりのこんぶ和え",
-      "とり団子汁",
-      "ご飯"
+      "ポークカレー",
+      "コロコロスパイシーチキン",
+      "キャベツサラダ"
     ],
-    "ingredients": "ほねも ≪ぎゅうにゅう≫ たべられるよ ししゃも パンこ こむぎこ\nさとう でんぷん あぶら ごま こんぶ きゅうり もやし さとう はねぎ にんじん はくさい えのきたけ しらたき とりにく たまねぎ でんぷん さとう ≪こめ≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nぶたにく にんじん ≪トマト≫ たまねぎ じゃがいも カレールウ あぶら\nとりにく にんにく でんぷん こめこ あぶら\nキャベツ とうもろこし ドレッシング",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21471,13 +21489,14 @@
     "day": 6,
     "weekday": "火",
     "dishes": [
+      "ご飯",
       "牛乳",
-      "ポークカレー",
-      "コロコロスパイシーチキン",
-      "キャベツサラダ",
-      "ご飯"
+      "関東煮",
+      "厚焼き卵",
+      "こまつなのかつお和え",
+      "味付けのり"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ ぶたにく にんじん ≪トマト≫ たまねぎ じゃがいも カレールウ あぶら とりにく にんにく でんぷん こめこ あぶら キャベツ とうもろこし ドレッシング ≪こめ≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nとりにく はんぺん にんじん だいこん こんにゃく さといも さとう あぶら\nたまご さとう でんぷん あぶら\nかつおフレーク こまつな もやし さとう\n≪のり≫ さとう",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21489,14 +21508,13 @@
     "day": 7,
     "weekday": "水",
     "dishes": [
-      "牛 ぎゅう 乳 にゅう はしづかいの日",
-      "関東煮",
-      "厚焼き卵",
-      "こまつなのかつお和え",
-      "味付けのり",
-      "ご飯"
+      "ご飯",
+      "牛乳",
+      "ビビンバの具",
+      "にらまんじゅう",
+      "トックク"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ とりにく はんぺん にんじん だいこん こんにゃく さといも さとう あぶら たまご さとう でんぷん あぶら かつおフレーク こまつな もやし さとう ≪のり≫ さとう ≪こめ≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nにんじん\nぶたにく しょうが にんにく さとう でんぷん あぶら\n≪チンゲンサイ≫\n≪キャベツ≫ ねぎ にんにく こむぎこ さとう ラード\nぶたにく だいずこ にら\nしょうが こんにゃく パンこ でんぷん あぶら\nとりにく わかめ にんじん たまねぎ ねぎ とうもろこし トック あぶら",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21508,13 +21526,14 @@
     "day": 8,
     "weekday": "木",
     "dishes": [
+      "ご飯",
       "牛乳",
-      "ビビンバの具",
-      "にらまんじゅう",
-      "トックク",
-      "ご飯"
+      "さんまの銀紙焼き",
+      "れんこんきんぴら",
+      "秋の香り汁",
+      "りんご"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ ぶたにく にんじん\n≪チンゲンサイ≫ しょうが にんにく さとう でんぷん あぶら ぶたにく だいずこ にら ≪キャベツ≫ ねぎ にんにく\nしょうが こんにゃく こむぎこ さとう\nパンこ でんぷん ラード\nあぶら とりにく わかめ にんじん たまねぎ ねぎ とうもろこし トック あぶら ≪こめ≫",
+    "ingredients": "≪こめ≫\nほねも ≪ぎゅうにゅう≫\nべられるよ\nさんま みそ さとう こめこ\nぎゅうにく ぶたにく にんじん さやいんげん ≪れんこん≫ さとう ごまあぶら\nだいこん ねぎ まいたけ\n≪とうふ≫ あぶらあげ にんじん\nしめじ えのきたけ\nりんご",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21526,14 +21545,14 @@
     "day": 9,
     "weekday": "金",
     "dishes": [
+      "中華めん",
       "牛乳",
-      "さんまの銀紙焼き",
-      "れんこんきんぴら",
-      "秋の香り汁",
-      "りんご",
-      "中華めん"
+      "野菜タンメン（汁）",
+      "揚げギョウザ（小２・中３）",
+      "チンゲンサイの中華和え",
+      "ブルーベリーゼリー"
     ],
-    "ingredients": "ほねも\nべられるよ ≪ぎゅうにゅう≫ さんま みそ さとう こめこ ぎゅうにく ぶたにく にんじん さやいんげん ≪れんこん≫ さとう ごまあぶら ≪とうふ≫ あぶらあげ にんじん だいこん ねぎ まいたけ\nしめじ えのきたけ りんご ≪ちゅうかめん≫",
+    "ingredients": "≪ちゅうかめん≫\n≪ぎゅうにゅう≫\nもやし キャベツ ねぎ\nぶたにく にんじん あぶら\nとうもろこし にんにく\nラード\nキャベツ たまねぎ にんにく でんぷん さとう\nとりにく ぶたにく だいずこ ごまあぶら\nしょうが こむぎこ みずあめ\nあぶら\n≪チンゲンサイ≫\nまぐろフレーク さとう ごまあぶら\nにんじん\nかんてん ブルーベリー さとう",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21545,14 +21564,31 @@
     "day": 13,
     "weekday": "火",
     "dishes": [
+      "わかめご飯",
       "牛乳",
-      "野菜タンメン（汁）",
-      "揚げギョウザ（小２・中３）",
-      "チンゲンサイの中華和え",
-      "ブルーベリーゼリー",
-      "わかめご飯"
+      "ミンチカツ",
+      "千草和え",
+      "呉汁"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ ぶたにく にんじん もやし キャベツ ねぎ\nとうもろこし にんにく あぶら とりにく ぶたにく だいずこ キャベツ たまねぎ にんにく\nしょうが でんぷん さとう\nこむぎこ みずあめ ラード\nごまあぶら\nあぶら まぐろフレーク ≪チンゲンサイ≫\nにんじん さとう ごまあぶら かんてん ブルーベリー さとう わかめ ≪こめ≫",
+    "ingredients": "わかめ ≪こめ≫\n≪ぎゅうにゅう≫\nパンこ こむぎこ\nぶたにく たまねぎ あぶら\nでんぷん さとう\n≪ほうれんそう≫\nあぶらあげ こんにゃく もやし さとう\nにんじん\nぶたにく だいず ≪とうふ≫ だいこん ねぎ えのきたけ\nにんじん さといも あぶら\nミックスみそ しょうが",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
+  },
+  {
+    "date": "2026-10-14",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 14,
+    "weekday": "水",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "高野豆腐の卵とじ",
+      "ふんわり野菜揚げ（小中２）",
+      "即席和え"
+    ],
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nとりにく ≪たまご≫\nにんじん ≪みつば≫ たまねぎ ほししいたけ さとう あぶら\nこうやどうふ かまぼこ\nとうふ ぎょにくすりみ たまねぎ えだまめ さとう こむぎこ\nにんじん あぶら\nとうにゅう とうもろこし でんぷん\nキャベツ きゅうり だいこん さとう",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21564,13 +21600,13 @@
     "day": 15,
     "weekday": "木",
     "dishes": [
+      "ご飯",
       "牛乳",
-      "高野豆腐の卵とじ",
-      "ふんわり野菜揚げ（小中２）",
-      "即席和え",
-      "ご飯"
+      "さばのおろしがけ",
+      "ひじきのそぼろ煮",
+      "根菜汁"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ とりにく ≪たまご≫\nこうやどうふ かまぼこ にんじん ≪みつば≫ たまねぎ ほししいたけ さとう あぶら とうふ ぎょにくすりみ\nとうにゅう にんじん たまねぎ えだまめ\nとうもろこし さとう こむぎこ\nでんぷん あぶら キャベツ きゅうり だいこん さとう ≪こめ≫",
+    "ingredients": "≪こめ≫\nほねにきを ≪ぎゅうにゅう≫\nつけてね\nさば だいこん さとう でんぷん あぶら\nとりにく ひじき にんじん とうもろこし えだまめ さとう あぶら\nぶたにく にんじん はねぎ ごぼう こんにゃく えのきたけ さといも",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21589,7 +21625,25 @@
       "アルファベットスープ",
       "チョコクリーム"
     ],
-    "ingredients": "≪スライスパン≫ ≪ぎゅうにゅう≫ とりにく ぶたにく たまねぎ でんぷん さとう あぶら まぐろフレーク みずな ≪れんこん≫ ドレッシング ベーコン にんじん パセリ たまねぎ キャベツ マカロニ じゃがいも だいずこ だっしふんにゅう さとう あぶら",
+    "ingredients": "≪スライスパン≫\n≪ぎゅうにゅう≫\nとりにく ぶたにく たまねぎ でんぷん さとう あぶら\nまぐろフレーク みずな ≪れんこん≫ ドレッシング\nベーコン にんじん パセリ たまねぎ キャベツ マカロニ じゃがいも\nだいずこ だっしふんにゅう さとう あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
+  },
+  {
+    "date": "2026-10-19",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 19,
+    "weekday": "月",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ヤンニョムチキン",
+      "はくさいのナムル",
+      "中華コーンスープ"
+    ],
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nでんぷん こめこ\nとりにく しょうが にんにく あぶら\nさとう\nはくさい きゅうり さとう ごまあぶら\nぶたにく にんじん はねぎ たまねぎ もやし とうもろこし でんぷん あぶら",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21601,13 +21655,13 @@
     "day": 20,
     "weekday": "火",
     "dishes": [
+      "麦ご飯",
       "牛乳",
-      "ヤンニョムチキン",
-      "はくさいのナムル",
-      "中華コーンスープ",
-      "麦ご飯"
+      "そぼろ丼の具",
+      "じゃこキャベツ",
+      "湯葉のすまし汁"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ とりにく しょうが にんにく でんぷん こめこ\nさとう あぶら はくさい きゅうり さとう ごまあぶら ぶたにく にんじん はねぎ たまねぎ もやし とうもろこし でんぷん あぶら ≪こめ≫ おおむぎ",
+    "ingredients": "≪こめ≫ おおむぎ\n≪ぎゅうにゅう≫\nとりにく ≪だいず≫\nにんじん グリンピース しょうが さとう あぶら\nこうやどうふ\nごま\nしらすぼし キャベツ だいこん さとう\nごまあぶら\nはくさい えのきたけ\n≪とうふ≫ ゆば にんじん ≪みつば≫\nほししいたけ",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21619,14 +21673,32 @@
     "day": 21,
     "weekday": "水",
     "dishes": [
+      "ご飯",
       "牛乳",
       "スタミナ肉じゃが",
       "肉団子（小中２）",
       "きゅうりのさっぱり和え",
-      "ココアパウダー",
-      "ご飯"
+      "ココアパウダー"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ ぶたにく にんじん にら こんにゃく たまねぎ にんにく じゃがいも さとう あぶら とりにく ぶたにく たまねぎ しょうが パンこ さとう ラード\nごまあぶら\nあぶら きゅうり レモン さとう ごまあぶら さとう ≪こめ≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nぶたにく にんじん にら こんにゃく たまねぎ にんにく じゃがいも さとう あぶら\nラード\nとりにく ぶたにく たまねぎ しょうが パンこ さとう ごまあぶら\nあぶら\nきゅうり レモン さとう ごまあぶら\nさとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
+  },
+  {
+    "date": "2026-10-22",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 22,
+    "weekday": "木",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "さわらの香味だれがけ",
+      "五目煮豆",
+      "さつまいものみそ汁"
+    ],
+    "ingredients": "≪こめ≫\nほねにきを ≪ぎゅうにゅう≫\nつけてね\nあぶら\nさわら さとう でんぷん ごまあぶら\nごま\n≪だいず≫ とりにく こんぶ にんじん さやいんげん ごぼう こんにゃく さとう あぶら\nぶたにく ≪とうふ≫ だいこん ねぎ えのきたけ\nにんじん さつまいも あぶら\nしろみそ しょうが",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21638,13 +21710,13 @@
     "day": 23,
     "weekday": "金",
     "dishes": [
-      "牛 ぎゅう 乳 にゅう こんだて",
-      "さわらの香味だれがけ",
-      "五目煮豆",
-      "さつまいものみそ汁",
-      "ソフトめん"
+      "ソフトめん",
+      "牛乳",
+      "カレーソフトめん（汁）",
+      "大豆入りナゲット（小２・中３）",
+      "シャインマスカットゼリー和え"
     ],
-    "ingredients": "ほねにきを\nつけてね ≪ぎゅうにゅう≫ さわら さとう でんぷん あぶら\nごまあぶら\nごま ≪だいず≫ とりにく こんぶ にんじん さやいんげん ごぼう こんにゃく さとう あぶら ぶたにく ≪とうふ≫\nしろみそ にんじん だいこん ねぎ えのきたけ\nしょうが さつまいも あぶら ≪ソフトめん≫",
+    "ingredients": "≪ソフトめん≫\n≪ぎゅうにゅう≫\nじゃがいも カレールウ\nぶたにく にんじん トマト たまねぎ にんにく あぶら\nでんぷん\nとりにく だいず きなこ にんじん にんにく でんぷん さとう あぶら\nナタデココ パインアップル\nもも\nぶどう さとう",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21656,13 +21728,31 @@
     "day": 26,
     "weekday": "月",
     "dishes": [
+      "ご飯",
       "牛乳",
       "和風コロッケ",
       "切干しだいこんのいため煮",
-      "茶わん蒸しスープ",
-      "麦ご飯"
+      "茶わん蒸しスープ"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ にんじん ≪れんこん≫ じゃがいも パンこ\nさとう こむぎこ\nこめこ でんぷん あぶら ベーコン にんじん さやいんげん ≪きりぼしだいこん≫ さとう あぶら とりにく ≪たまご≫\nかまぼこ にんじん ≪みつば≫ えのきたけ ほししいたけ でんぷん あぶら ≪こめ≫ おおむぎ",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nじゃがいも パンこ\nにんじん ≪れんこん≫ さとう こむぎこ あぶら\nこめこ でんぷん\nベーコン にんじん さやいんげん ≪きりぼしだいこん≫ さとう あぶら\nとりにく ≪たまご≫\nにんじん ≪みつば≫ えのきたけ ほししいたけ でんぷん あぶら\nかまぼこ",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
+  },
+  {
+    "date": "2026-10-27",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 27,
+    "weekday": "火",
+    "dishes": [
+      "麦ご飯",
+      "牛乳",
+      "八宝菜",
+      "ポークシュウマイ（小中２）",
+      "大豆もやしの中華和え"
+    ],
+    "ingredients": "≪こめ≫ おおむぎ\n≪ぎゅうにゅう≫\nにんじん たまねぎ はくさい たけのこ\nぶたにく いか えび でんぷん さとう あぶら\n≪チンゲンサイ≫ ほししいたけ\nたまねぎ ねぎ しょうが でんぷん さとう\nぶたにく あぶら\nにんにく こむぎこ みずあめ\nまぐろフレーク にんじん だいずもやし もやし さとう ごまあぶら",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21674,13 +21764,13 @@
     "day": 28,
     "weekday": "水",
     "dishes": [
+      "ご飯",
       "牛乳",
-      "八宝菜",
-      "ポークシュウマイ（小中２）",
-      "大豆もやしの中華和え",
-      "ご飯"
+      "かつおカツ",
+      "いんげんのごまささみ和え",
+      "厚揚げのみそ汁"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ ぶたにく いか えび にんじん\n≪チンゲンサイ≫ たまねぎ はくさい たけのこ\nほししいたけ でんぷん さとう あぶら ぶたにく たまねぎ ねぎ しょうが\nにんにく でんぷん さとう\nこむぎこ みずあめ あぶら まぐろフレーク にんじん だいずもやし もやし さとう ごまあぶら ≪こめ≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nパンこ さとう\nかつお たまねぎ しょうが あぶら\nこむぎこ\nささみフレーク さやいんげん さとう ごま\nこんにゃく ごぼう だいこん\nぶたにく あつあげ あかみそ にんじん あぶら\nねぎ",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21692,13 +21782,13 @@
     "day": 29,
     "weekday": "木",
     "dishes": [
+      "ご飯",
       "牛乳",
       "てりどり",
       "こまつなのなめたけ和え",
-      "沢煮わん",
-      "りんごパン"
+      "沢煮わん"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ とりにく しょうが さとう でんぷん あぶら こまつな キャベツ えのきたけ みずあめ さとう ぶたにく にんじん ≪みつば≫ こんにゃく だいこん ごぼう あぶら りんご ≪パン≫",
+    "ingredients": "≪こめ≫\n≪ぎゅうにゅう≫\nとりにく しょうが さとう でんぷん あぶら\nこまつな キャベツ えのきたけ みずあめ さとう\nぶたにく にんじん ≪みつば≫ こんにゃく だいこん ごぼう あぶら",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
@@ -21710,13 +21800,343 @@
     "day": 30,
     "weekday": "金",
     "dishes": [
+      "りんごパン",
       "牛乳",
       "秋味くりシチュー",
-      "ボロニアステーキ"
+      "ボロニアステーキ",
+      "花野菜サラダ"
     ],
-    "ingredients": "≪ぎゅうにゅう≫ とりにく とうにゅう にんじん たまねぎ マッシュルーム さつまいも\nホワイトルウ くり あぶら とりにく ぶたにく でんぷん さとう ラード\nあぶら 一宮市では、学校給食\n課のウェブページに「好 評献立」を掲載していま\nす。",
+    "ingredients": "りんご ≪パン≫\n≪ぎゅうにゅう≫\nさつまいも\nとりにく とうにゅう にんじん たまねぎ マッシュルーム くり あぶら\nホワイトルウ\nラード\nとりにく ぶたにく でんぷん さとう\nあぶら\nまぐろフレーク ブロッコリー カリフラワー さとう オリーブあぶら",
     "kcal": "",
     "protein_g": "",
     "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0810.pdf"
+  },
+  {
+    "date": "2026-11-02",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 2,
+    "weekday": "月",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ハンバーグのおろしがけ",
+      "いろどり和え",
+      "いものこ汁",
+      "（中）おさかなふりかけ"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ とりにく ぶたにく たまねぎ だいこん でんぷん さとう あぶら ハム ひじき にんじん きゅうり とうもろこし さとう ドレッシング とりにく にんじん しめじ ねぎ こんにゃく さといも あぶら いわしぶし かつおぶし あおのり のり かぼちゃ さとう じゃがいも\nでんぷん みずあめ ごま",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-04",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 4,
+    "weekday": "水",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "マーボー豆腐",
+      "揚げギョウザ（小2・中3）",
+      "もやしのナムル"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ ぶたにく だいず とうふ\nあかみそ にんじん にら たけのこ しょうが にんにく さとう でんぷん ぶたにく にら キャベツ たまねぎ にんにく\nしょうが でんぷん さとう\nこむぎこ ラード あぶら\nごまあぶら ハム もやし きゅうり さとう ごまあぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-05",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 5,
+    "weekday": "木",
+    "dishes": [
+      "麦ご飯",
+      "牛乳",
+      "ハヤシシチュー",
+      "オムレツ",
+      "ごぼうサラダ",
+      "ヨーグルト"
+    ],
+    "ingredients": "≪こめ≫ おおむぎ ≪ぎゅうにゅう≫ ぶたにく にんじん トマト たまねぎ しめじ じゃがいも ハヤシルウ あぶら たまご さとう あぶら ささみフレーク ごぼう きゅうり ドレッシング ヨーグルト",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-06",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 6,
+    "weekday": "金",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "さんまのみぞれ煮",
+      "五目うの花",
+      "吉野汁"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ さんま だいこん さとう でんぷん おから ぶたにく にんじん さやいんげん ごぼう ほししいたけ さとう とりにく ≪とうふ≫ あぶらあげ にんじん ≪だいこん≫ ねぎ さといも でんぷん",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-09",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 9,
+    "weekday": "月",
+    "dishes": [
+      "白玉うどん",
+      "牛乳",
+      "カレー南蛮うどん（汁）",
+      "さつまいもと大豆の黒糖がらめ",
+      "こまつなのツナ和え"
+    ],
+    "ingredients": "≪しらたまうどん≫ ≪ぎゅうにゅう≫ とりにく かまぼこ にんじん たまねぎ ねぎ カレールウ でんぷん あぶら ≪だいず≫ さつまいも でんぷん\nさとう あぶら まぐろフレーク こまつな ≪みずな≫ もやし さとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-10",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 10,
+    "weekday": "火",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "揚げシュウマイ（小2・中3）",
+      "ピリ辛れんこん丼の具",
+      "チンゲンサイと豆腐のスープ",
+      "コーヒーパウダー"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ ぶたにく たまねぎ ねぎ しょうが\nにんにく でんぷん さとう\nこむぎこ みずあめ あぶら とりにく はねぎ しょうが ≪れんこん≫ たまねぎ さとう でんぷん あぶら ベーコン ≪とうふ≫ にんじん ≪チンゲンサイ≫ もやし とうもろこし\nほししいたけ でんぷん あぶら さとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-11",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 11,
+    "weekday": "水",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ひきずり",
+      "キャベツ入りつくね",
+      "ブロッコリーのおかか和え"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ とりにく やきどうふ かまぼこ にんじん こんにゃく はくさい ねぎ さとう あぶら とりにく かつおぶし キャベツ しょうが でんぷん さとう ラード\nあぶら かつおぶし ブロッコリー さとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-12",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 12,
+    "weekday": "木",
+    "dishes": [
+      "サンドイッチバンズパン",
+      "牛乳",
+      "フィッシュバーガーの具（たらフライ・キャベツのタルタル和え）",
+      "ベジタブルスープ",
+      "セレクトデザート（りんごゼリー／さつまいもとくりのタルト）"
+    ],
+    "ingredients": "≪サンドイッチバンズパン≫ ≪ぎゅうにゅう≫ すけそうだら パンこ こむぎこ こめこ あぶら あ\nキャベツのタルタル和え とうにゅう かぼちゃ ≪キャベツ≫ たまねぎ きゅうり さとう あぶら ウインナー にんじん ブロッコリー たまねぎ とうもろこし じゃがいも あぶら りんご さとう ＊さつまいもとくりのタルト とうにゅう さつまいも さとう こめこ くり あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-13",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 13,
+    "weekday": "金",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ひき肉納豆いため",
+      "さつまいもコロッケ",
+      "豆腐と湯葉のすまし汁"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ ぶたにく なっとう あかみそ にんじん さやいんげん さとう さつまいも パンこ\nさとう こむぎこ あぶら ≪とうふ≫ ゆば にんじん はくさい えのきたけ\nほししいたけ ねぎ",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-16",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 16,
+    "weekday": "月",
+    "dishes": [
+      "ソフトめん",
+      "牛乳",
+      "ソフトめんミートソース（汁）",
+      "海そうサラダ",
+      "れんこんチップス"
+    ],
+    "ingredients": "≪ソフトめん≫ ≪ぎゅうにゅう≫ ぶたにく だいず にんじん トマト たまねぎ にんにく ハヤシルウ さとう ささみフレーク かんてん わかめ ≪キャベツ≫ ドレッシング ≪れんこん≫ あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-17",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 17,
+    "weekday": "火",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "さばの照り焼き",
+      "吹き寄せ煮",
+      "なめこのみそ汁",
+      "かき"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ さば さとう でんぷん あぶら ほねにきを\nつけてね とりにく かまぼこ\nこうやどうふ にんじん さやいんげん ≪れんこん≫ ごぼう さといも さとう くり あぶら ぶたにく あかみそ にんじん なめこ ≪だいこん≫ はくさい ねぎ かき",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-18",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 18,
+    "weekday": "水",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "春巻",
+      "キャベツとみずなの中華和え",
+      "とり団子の中華スープ"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ ぶたにく にんじん にら ≪キャベツ≫ もやし エリンギ でんぷん さとう\nこむぎこ みずあめ ごまあぶら\nあぶら まぐろフレーク ≪みずな≫ ≪キャベツ≫ さとう ごまあぶら にんじん はくさい ねぎ もやし\nしょうが ほししいたけ とりにく たまねぎ でんぷん さとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-19",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 19,
+    "weekday": "木",
+    "dishes": [
+      "わかめご飯",
+      "牛乳",
+      "はちみつみそチキン",
+      "切干しだいこんのいため煮",
+      "愛知のかきたま汁"
+    ],
+    "ingredients": "わかめ ≪こめ≫ ≪ぎゅうにゅう≫ とりにく あかみそ しょうが にんにく ≪はちみつ≫ さとう\nこめこ あぶら ≪あぶらあげ≫ ≪にんじん≫ さやいんげん ≪きりぼしだいこん≫ さとう あぶら ≪たまご≫ ≪とうふ≫\nかまぼこ ≪にんじん≫ ≪みつば≫ ≪だいこん≫ はくさい\nほししいたけ でんぷん",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-20",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 20,
+    "weekday": "金",
+    "dishes": [
+      "黒ロールパン",
+      "牛乳",
+      "焼きフランクフルト",
+      "秋野菜のシチュー",
+      "フルーツのミルクゼリー和え"
+    ],
+    "ingredients": "≪くろロールパン≫ ≪ぎゅうにゅう≫ ぶたにく さとう ラード\nあぶら とりにく とうにゅう にんじん ブロッコリー ≪れんこん≫ ≪だいこん≫ しめじ さといも ホワイトルウ あぶら ぎゅうにゅう りんご みかん パインアップル もも さとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-24",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 24,
+    "weekday": "火",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "かつおのおかか煮",
+      "ほうれんそうの白和え",
+      "さつま汁"
+    ],
+    "ingredients": "≪こめ≫ ほねも\nられるよ ≪ぎゅうにゅう≫ かつお かつおぶし しょうが さとう でんぷん とうふ ≪ほうれんそう≫ にんじん さとう ごま とりにく ミックスみそ わかめ にんじん はくさい えのきたけ ねぎ しょうが さつまいも",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-25",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 25,
+    "weekday": "水",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "ユーリンチー",
+      "チンゲンサイの中華和え",
+      "はるさめスープ"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ とりにく にんにく しょうが ねぎ でんぷん こめこ さとう あぶら まぐろフレーク ≪チンゲンサイ≫ にんじん さとう ごまあぶら ベーコン にんじん にら はくさい ほししいたけ とうもろこし はるさめ あぶら",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-26",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 26,
+    "weekday": "木",
+    "dishes": [
+      "ご飯",
+      "牛乳",
+      "みそおでん",
+      "厚焼き卵",
+      "いんげんのごま和え"
+    ],
+    "ingredients": "≪こめ≫ ≪ぎゅうにゅう≫ ぶたにく はんぺん\nあつあげ あかみそ にんじん こんにゃく ≪だいこん≫ さといも さとう あぶら たまご さとう あぶら さやいんげん さとう ごま",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
+  },
+  {
+    "date": "2026-11-30",
+    "school_type": "小中",
+    "area": "東浅井",
+    "day": 30,
+    "weekday": "月",
+    "dishes": [
+      "麦ご飯",
+      "牛乳",
+      "ポークカレー",
+      "チキンナゲット（小2・中3）",
+      "福神漬和え"
+    ],
+    "ingredients": "≪こめ≫ おおむぎ ≪ぎゅうにゅう≫ ぶたにく にんじん ≪トマト≫ たまねぎ じゃがいも カレールウ あぶら とりにく にんにく パンこ こむぎこ ラード あぶら しそ ≪キャベツ≫ きゅうり だいこん\n≪れんこん≫ ≪なす≫\nしょうが ≪なたまめ≫ さとう",
+    "kcal": "",
+    "protein_g": "",
+    "source_pdf": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/074/863/higashiazaisyoutyuu0811.pdf"
   }
 ]
